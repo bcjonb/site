@@ -1,0 +1,78 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	margin: 2em;
+	margin-top:0px;
+	background:url(images/FullSizeRender.jpg);
+	background-size:75% 75%;
+	background-repeat:repeat;
+	/*background-color:#FFF;*/
+	
+}
+
+.headroom	{
+	height:2em;
+	background-color:#fff;
+}
+
+a	{
+	text-decoration: none;
+	color: #999;
+}
+
+.navBar a	{
+	/*display:block;*/
+	text-decoration: none;
+	color: #999;
+}
+
+.navBar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	font-family: "Abadi MT Condensed Extra Bold";
+	font-size: 14pt;
+}
+
+.navBar ul ul	{
+	float: left;
+	margin-left: 10px;
+	font-size: 12pt;
+}
+
+h4	{
+	margin:0px;
+	color:#999;
+}
+
+.active {
+	display: block;
+}
+
+.inactive {
+	display: none;
+}
+
+form {
+	text-align: right;
+	font-family: "Abadi MT Condensed Extra Bold";
+}
+.footer {
+	margin-top:250px;
+	font-family: "Abadi MT Condensed Extra Bold";
+	font-size: 10pt;
+	text-align: right;
+	color: #999;
+}
+
+.fold	{
+	height:300px;
+	background-color:#fff;
+}
+
+.preload	{
+	display:none;
+}

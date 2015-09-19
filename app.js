@@ -1,48 +1,48 @@
 // JavaScript Document
 
 //SculpterArrays
-var furns = ['images/furn1_600x400.jpg',	//1
-			'images/furn2_600x400.jpg',	//2
-			'images/furn3_600x400.jpg'];	//3
+var furns = ['https://cloud.githubusercontent.com/assets/5902671/9974157/0939cf42-5e52-11e5-81a5-29fa736fa096.jpg',	//1
+			'https://cloud.githubusercontent.com/assets/5902671/9974155/09399b4e-5e52-11e5-9364-74fe25620efb.jpg',	//2
+			'https://cloud.githubusercontent.com/assets/5902671/9974156/09399c3e-5e52-11e5-8649-319c0ab33e58.jpg'];	//3
 
-var bats = ['images/bats1_600x400.jpg',	//1
-			'images/bats2_600x400.jpg',	//2
-			'images/bats3_600x400.jpg',	//3
-			'images/bats4_600x400.jpg',	//4
-			'images/bats5_600x400.jpg',	//5
-			'images/bats6_600x400.jpg',	//6
-			'images/bats7_600x400.jpg'];	//7
+var bats = ['https://cloud.githubusercontent.com/assets/5902671/9973993/1fe2b3da-5e4d-11e5-93e2-59f6ab52508a.jpg',	//1
+			'https://cloud.githubusercontent.com/assets/5902671/9973995/1fef1cc4-5e4d-11e5-9a77-826d17a03f29.jpg',	//2
+			'https://cloud.githubusercontent.com/assets/5902671/9973994/1febcac4-5e4d-11e5-9cba-06f51ee80caf.jpg',	//3
+			'https://cloud.githubusercontent.com/assets/5902671/9973996/1ff0ebbc-5e4d-11e5-9861-0c097e49d4af.jpg',	//4
+			'https://cloud.githubusercontent.com/assets/5902671/9973997/1ff3c918-5e4d-11e5-9806-09df01319d7e.jpg',	//5
+			'https://cloud.githubusercontent.com/assets/5902671/9973998/200b711c-5e4d-11e5-99a9-5e2b49066fa4.jpg',	//6
+			'https://cloud.githubusercontent.com/assets/5902671/9973999/2011b414-5e4d-11e5-82fb-471615c9d2f2.jpg'];	//7
 
-var altars = ['images/ 600x400/altars1_600x400.jpg',	//1
-			 'images/altars2_600x400.jpg',	//2
-			 'images/altars3_600x400.jpg',	//3
-			 'images/altars4_600x400.jpg',];	//4
+var altars = ['https://cloud.githubusercontent.com/assets/5902671/9973816/c59346f6-5e47-11e5-83e9-bb9080940fd3.jpg',	//1
+			 'https://cloud.githubusercontent.com/assets/5902671/9973817/c59649be-5e47-11e5-9655-bad40008a50f.jpg',	//2
+			 'https://cloud.githubusercontent.com/assets/5902671/9973819/c5a0b944-5e47-11e5-9d93-230c7b350440.jpg',	//3
+			 'https://cloud.githubusercontent.com/assets/5902671/9973987/fab5e94c-5e4c-11e5-80d7-37f7558ad693.jpg',];	//4
 
 var hedges = ['../Content/Readied/hedges 600x400/hedge1_600x400.jpg'];	//1
 
 //DrawingArray
-var draw = ['images/draw1_600x400.jpg',		//1
-			'images/draw2_600x400.jpg',		//2
-			'images/draw3_600x400.jpg',		//3
-			'images/draw4_600x400.jpg',		//4
-			'images/draw5_600x400.jpg',		//5
-			'images/draw6_600x400.jpg',		//6
-			'images/draw7_600x400.jpg',		//7
-			'images/draw8_600x400.jpg',		//8
-			'images/draw9_600x400.jpg',		//9
-			'images/draw010_600x400.jpg'];		//10
+var draw = ['https://cloud.githubusercontent.com/assets/5902671/9974056/89af66f4-5e4e-11e5-9227-50512de49bd7.jpg',		//1
+			'https://cloud.githubusercontent.com/assets/5902671/9974057/89b2bad4-5e4e-11e5-9aa7-2924e2bd5ab2.jpg',		//2
+			'https://cloud.githubusercontent.com/assets/5902671/9974065/89db0cd2-5e4e-11e5-89b8-4ef61d55ac5a.jpg',		//3
+			'https://cloud.githubusercontent.com/assets/5902671/9974059/89bd4076-5e4e-11e5-8d7c-474b3834eb8e.jpg',		//4
+			'https://cloud.githubusercontent.com/assets/5902671/9974058/89bb766a-5e4e-11e5-90fa-782cb1cef57f.jpg',		//5
+			'https://cloud.githubusercontent.com/assets/5902671/9974060/89c16340-5e4e-11e5-8f1b-c79f9dd187eb.jpg',		//6
+			'https://cloud.githubusercontent.com/assets/5902671/9974061/89c66b6a-5e4e-11e5-8d0f-e7fc2dc9880c.jpg',		//7
+			'https://cloud.githubusercontent.com/assets/5902671/9974062/89c808b2-5e4e-11e5-8b8b-cf4360b851f4.jpg',		//8
+			'https://cloud.githubusercontent.com/assets/5902671/9974063/89ccc6a4-5e4e-11e5-9a53-428f5dff4a92.jpg',		//9
+			'https://cloud.githubusercontent.com/assets/5902671/9974064/89d1bff6-5e4e-11e5-810a-7c84f852639e.jpg'];		//10
 
 //InstallationArray
-var installation = ['images/install1Web_600x400.jpg',	//1
-					'images/install2Web_600x400.jpg',	//2
-					'images/install3Web_600x400.jpg',	//3
-					'images/install4Web_600x400.jpg',	//4
-					'images/install5Web_600x400.jpg',	//5
-					'images/install6Web_600x400.jpg',	//6
-					'images/install7Web_600x400.jpg',	//7
-					'images/install8Web_600x400.jpg',	//8
-					'images/install1Per_600x400.jpg',	//9
-					'images/install1FY_600x400.jpg'];	//10
+var installation = ['https://cloud.githubusercontent.com/assets/5902671/9974181/877af17e-5e52-11e5-9108-30c96d8ccdc4.jpg',	//1
+					'https://cloud.githubusercontent.com/assets/5902671/9974183/87868e62-5e52-11e5-9acc-76fe142f41fa.jpg',	//2
+					'https://cloud.githubusercontent.com/assets/5902671/9974184/8789a174-5e52-11e5-8063-abbd6c7379da.jpg',	//3
+					'https://cloud.githubusercontent.com/assets/5902671/9974182/8780c518-5e52-11e5-8a3c-bbcb51daed3f.jpg',	//4
+					'https://cloud.githubusercontent.com/assets/5902671/9974185/878cfafe-5e52-11e5-82a1-62ed05e70220.jpg',	//5
+					'https://cloud.githubusercontent.com/assets/5902671/9974186/8792f0f8-5e52-11e5-8720-ba2de423d49e.jpg',	//6
+					'https://cloud.githubusercontent.com/assets/5902671/9974187/87937708-5e52-11e5-89dc-0a062c47fa3d.jpg',	//7
+					'https://cloud.githubusercontent.com/assets/5902671/9974188/87991118-5e52-11e5-92b0-31575bbf31f1.jpg',	//8
+					'https://cloud.githubusercontent.com/assets/5902671/9974180/8779b4b2-5e52-11e5-8077-907e1c7a7773.jpg',	//9
+					'https://cloud.githubusercontent.com/assets/5902671/9974179/877392bc-5e52-11e5-8582-8488f2df7426.jpg'];	//10
 
 //PaintingArray
 var paint = ['images/paint1_600x400.jpg', 	//1
